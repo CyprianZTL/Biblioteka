@@ -124,8 +124,8 @@ Przechowuje kolekcje książek i użytkowników oraz realizuje logikę biznesow�
 | Login | Hasło |
 | ----- | ----- |
 | jan   | 1234  |
-| anna  | abcd  |
-| marek | pass  |
+| anna  | aaaa  |
+| Tomek | Tomek  |
 
 ### 👨‍💼 Bibliotekarz
 
